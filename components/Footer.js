@@ -25,8 +25,16 @@ export default function Footer() {
         <div>
           <span className="footer-label">Connect</span>
           <div className="footer-contact">
-            <a href={`mailto:${siteConfig.email}`}>{siteConfig.email}</a>
-            <a href={`tel:${siteConfig.phone.replace(/\s+/g, "")}`}>{siteConfig.phone}</a>
+            {siteConfig.emailAddresses.map((email) => (
+              <a key={email} href={`mailto:${email}`}>
+                {email}
+              </a>
+            ))}
+            {siteConfig.phoneNumbers.map((contact) => (
+              <a key={contact.number} href={`tel:${contact.number.replace(/\s+/g, "")}`}>
+                {contact.number} ({contact.label})
+              </a>
+            ))}
             <p>{siteConfig.address}</p>
           </div>
           <div className="social-links" aria-label="Social media links">
