@@ -15,6 +15,10 @@ function getYouTubeId(url) {
     if (parsed.pathname.includes("/embed/")) {
       return parsed.pathname.split("/embed/")[1];
     }
+
+    if (parsed.pathname.includes("/shorts/")) {
+      return parsed.pathname.split("/shorts/")[1];
+    }
   } catch {
     return null;
   }
