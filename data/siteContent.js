@@ -18,7 +18,7 @@
     { label: "Facebook", href: "#" },
     { label: "Instagram", href: "https://www.instagram.com/neevshaktisanstha" },
     { label: "LinkedIn", href: "#" },
-    { label: "YouTube", href: "https://www.youtube.com/@NeevShaktiSanstha-shjo" }
+    { label: "YouTube", href: "https://www.youtube.com/@neevshaktisanstha/videos" }
   ],
   navigation: [
     { label: "Home", href: "/" },
@@ -227,22 +227,16 @@ export const testimonials = [
 
 export const videoTestimonials = [
   {
-    title: "A beautiful day filled with learning, fun, creativity, and smiles",
+    title: "NeevShaktiSanstha Short Video 1",
     description:
-      "Latest upload from the official NeevShaktiSanstha YouTube channel, published on March 30, 2026.",
-    url: "https://www.youtube.com/watch?v=fKH3HZNb8rU"
+      "Featured YouTube Short from NeevShaktiSanstha, opened in a new tab and embedded directly in the Video Testimonials section.",
+    url: "https://www.youtube.com/shorts/NOicLxpk6KU"
   },
   {
-    title: "With love, support, and opportunity, every child can bloom",
+    title: "NeevShaktiSanstha Short Video 2",
     description:
-      "Official channel upload published on March 30, 2026, highlighting care, encouragement, and growth.",
-    url: "https://www.youtube.com/watch?v=cpLFVSVam74"
-  },
-  {
-    title: "Their strength inspires us every single day",
-    description:
-      "Official channel upload published on March 30, 2026, reflecting resilience and inclusive community support.",
-    url: "https://www.youtube.com/watch?v=pNE1H7VD_hc"
+      "Featured YouTube Short from NeevShaktiSanstha, available on the homepage preview and the full Video Testimonials page.",
+    url: "https://www.youtube.com/shorts/WRM-uHVCGv0"
   }
 ];
 
@@ -404,6 +398,9 @@ export const contactContent = {
   formNote:
     "This demo form is ready for backend integration. You can later connect it to email, a CRM, or a serverless form handler."
 };
+
+
+
 
 
 
