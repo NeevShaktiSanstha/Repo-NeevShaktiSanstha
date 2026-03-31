@@ -10,9 +10,17 @@
   description:
     "NeevShaktiSanstha is a disability support NGO working with individuals, families, volunteers, and partners to create inclusive pathways in education, livelihoods, advocacy, and community life.",
   email: "neevshakti2020@gmail.com",
-  phone: "+91 98765 43210",
+  emailAddresses: [
+    "neevshakti2020@gmail.com",
+    "neevshaktisanstha1@gmail.com"
+  ],
+  phone: "+91 97173 95466",
+  phoneNumbers: [
+    { label: "S Joshi", number: "+91 97173 95466" },
+    { label: "Richa", number: "+91 97173 95777" }
+  ],
   address:
-    "NeevShaktiSanstha, Community Support Centre, City Name, State, India - 000000",
+    "NeevShaktiSanstha, Crossing Republik, Ghaziabad, UP, India",
   mapEmbedLabel: "Google Maps placeholder for NeevShaktiSanstha office location",
   socialLinks: [
     { label: "Facebook", href: "#" },
