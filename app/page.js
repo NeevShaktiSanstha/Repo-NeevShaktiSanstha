@@ -93,17 +93,21 @@ export default function HomePage() {
             </div>
           </div>
 
-          <aside className="media-placeholder card" aria-label="NeevShaktiSanstha identity and logo">
+          <aside className="media-placeholder card" aria-label="Organization identity and event photo">
             <span className="mini-label">Organization identity</span>
             <Image
-              src={siteConfig.logoPath}
-              alt="NeevShaktiSanstha logo"
-              width={220}
-              height={220}
-              className="feature-logo"
+              src="/organization-identity-cdo.png"
+              alt="Neev Shakti Sanstha team with Mr. Abhinav Gopal, CDO Ghaziabad, IAS, at the organization stall"
+              width={580}
+              height={780}
+              className="identity-photo"
+              priority
             />
-            <h3>{siteConfig.mottoHindi}</h3>
-            <p>{siteConfig.mottoEnglish}</p>
+            <h3>Mr. Abhinav Gopal CDO ghaziabad IAS.</h3>
+            <p>
+              A meaningful moment representing institutional support, visibility, and community engagement for
+              NeevShaktiSanstha.
+            </p>
           </aside>
         </div>
       </section>

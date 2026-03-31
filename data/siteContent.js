@@ -9,7 +9,7 @@
   tagline: "Building dignity, accessibility, and opportunity for every ability.",
   description:
     "NeevShaktiSanstha is a disability support NGO working with individuals, families, volunteers, and partners to create inclusive pathways in education, livelihoods, advocacy, and community life.",
-  email: "hello@neevshaktisanstha.org",
+  email: "neevshakti2020@gmail.com",
   phone: "+91 98765 43210",
   address:
     "NeevShaktiSanstha, Community Support Centre, City Name, State, India - 000000",
@@ -242,106 +242,106 @@ export const videoTestimonials = [
 
 export const galleryPhotos = [
   {
-    src: "/gallery/photo-01.jpeg",
-    title: "Community support moment",
-    alt: "NeevShaktiSanstha community activity with participants and supporters.",
-    description: "A glimpse of NGO field work, inclusion, and shared community engagement."
+    src: "/gallery/program-participation-01.jpeg",
+    title: "Program participation 1",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-02.jpeg",
-    title: "Program participation",
-    alt: "Participants engaging in a NeevShaktiSanstha program session.",
-    description: "Showcasing participation, learning, and a welcoming support environment."
+    src: "/gallery/program-participation-02.jpeg",
+    title: "Program participation 2",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-03.jpeg",
-    title: "Group gathering",
-    alt: "A group photo from an NGO event or support gathering.",
-    description: "Moments like these help reflect belonging, connection, and visibility."
+    src: "/gallery/program-participation-03.jpeg",
+    title: "Program participation 3",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-04.jpeg",
-    title: "Inclusive outreach",
-    alt: "NeevShaktiSanstha outreach activity involving the local community.",
-    description: "Community outreach helps strengthen awareness and support networks."
+    src: "/gallery/program-participation-04.jpeg",
+    title: "Program participation 4",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-05.jpeg",
-    title: "Shared celebration",
-    alt: "Participants and supporters gathered during an NGO celebration or event.",
-    description: "A warm image that reflects dignity, joy, and collective participation."
+    src: "/gallery/program-participation-05.jpeg",
+    title: "Program participation 5",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-06.jpeg",
-    title: "Support in action",
-    alt: "An NGO support activity captured during an in-person session.",
-    description: "Useful for highlighting direct engagement with beneficiaries and families."
+    src: "/gallery/program-participation-06.jpeg",
+    title: "Program participation 6",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-07.jpeg",
-    title: "Volunteer involvement",
-    alt: "Volunteers participating in a NeevShaktiSanstha activity.",
-    description: "This image emphasizes collaboration between volunteers and the community."
+    src: "/gallery/program-participation-07.jpeg",
+    title: "Program participation 7",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-08.jpeg",
-    title: "Awareness event",
-    alt: "A photograph from a public awareness or advocacy event.",
-    description: "Awareness efforts help build understanding around disability inclusion."
+    src: "/gallery/program-participation-08.jpeg",
+    title: "Program participation 8",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-09.jpeg",
-    title: "Community gathering",
-    alt: "People gathered together during an NGO program or public event.",
-    description: "A strong addition for showing scale, participation, and solidarity."
+    src: "/gallery/program-participation-09.jpeg",
+    title: "Program participation 9",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-10.jpeg",
-    title: "Program snapshot",
-    alt: "A candid program photograph from NeevShaktiSanstha activities.",
-    description: "Suitable for reflecting ongoing NGO work and positive engagement."
+    src: "/gallery/program-participation-10.jpeg",
+    title: "Program participation 10",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-11.jpeg",
-    title: "Together with purpose",
-    alt: "Participants and supporters pictured together during an NGO activity.",
-    description: "This reinforces the warm, community-oriented identity of the organization."
+    src: "/gallery/program-participation-11.jpeg",
+    title: "Program participation 11",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-12.jpeg",
-    title: "Event memory",
-    alt: "A memorable moment from a NeevShaktiSanstha event.",
-    description: "A useful gallery item for showing lived experiences and event participation."
+    src: "/gallery/program-participation-12.jpeg",
+    title: "Program participation 12",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-13.jpeg",
-    title: "Community connection",
-    alt: "A photo showing connection and participation within an NGO activity.",
-    description: "Ideal for building trust through authentic visual storytelling."
+    src: "/gallery/program-participation-13.jpeg",
+    title: "Program participation 13",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-14.jpeg",
-    title: "Field engagement",
-    alt: "An NGO field interaction with beneficiaries or community members.",
-    description: "This image helps communicate grassroots involvement and support."
+    src: "/gallery/program-participation-14.jpeg",
+    title: "Program participation 14",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-15.jpeg",
-    title: "Inclusive participation",
-    alt: "People participating together in an inclusive NGO-led environment.",
-    description: "A clear reflection of access, dignity, and community presence."
+    src: "/gallery/program-participation-15.jpeg",
+    title: "Program participation 15",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-16.jpeg",
-    title: "Volunteer and beneficiary moment",
-    alt: "A meaningful interaction during NeevShaktiSanstha activities.",
-    description: "A strong visual for support, trust, and human connection."
+    src: "/gallery/program-participation-16.jpeg",
+    title: "Program participation 16",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   },
   {
-    src: "/gallery/photo-17.jpeg",
-    title: "Hope in community",
-    alt: "A closing gallery image representing hope, togetherness, and NGO impact.",
-    description: "A hopeful image that rounds out the gallery with warmth and optimism."
+    src: "/gallery/program-participation-17.jpeg",
+    title: "Program participation 17",
+    alt: "Participants engaged in a NeevShaktiSanstha computer lab learning session.",
+    description: "Computer lab program participation at NeevShaktiSanstha."
   }
 ];
 export const involvementOptions = [
@@ -398,6 +398,8 @@ export const contactContent = {
   formNote:
     "This demo form is ready for backend integration. You can later connect it to email, a CRM, or a serverless form handler."
 };
+
+
 
 
 
