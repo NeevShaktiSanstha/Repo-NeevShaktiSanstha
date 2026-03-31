@@ -11,7 +11,11 @@ export const metadata = {
 
 const contactCards = [
   { title: "Email", text: siteConfig.email, href: `mailto:${siteConfig.email}` },
-  { title: "Phone", text: siteConfig.phone, href: `tel:${siteConfig.phone.replace(/\s+/g, "")}` },
+  ...siteConfig.phoneNumbers.map((contact) => ({
+    title: `Phone (${contact.label})`,
+    text: contact.number,
+    href: `tel:${contact.number.replace(/\s+/g, "")}`
+  })),
   { title: "Address", text: siteConfig.address, href: "#" }
 ];
 

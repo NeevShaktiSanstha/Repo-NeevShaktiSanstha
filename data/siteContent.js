@@ -10,7 +10,11 @@
   description:
     "NeevShaktiSanstha is a disability support NGO working with individuals, families, volunteers, and partners to create inclusive pathways in education, livelihoods, advocacy, and community life.",
   email: "hello@neevshaktisanstha.org",
-  phone: "+91 98765 43210",
+  phone: "+91 97173 95466",
+  phoneNumbers: [
+    { label: "S Joshi", number: "+91 97173 95466" },
+    { label: "Richa", number: "+91 97173 95777" }
+  ],
   address:
     "NeevShaktiSanstha, Community Support Centre, City Name, State, India - 000000",
   mapEmbedLabel: "Google Maps placeholder for NeevShaktiSanstha office location",
